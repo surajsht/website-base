@@ -4,7 +4,7 @@ import { FaBars } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav className="container flex items-center justify-between p-3">
+    <nav className="container flex items-center justify-between p-4">
       <div className="logo">Logo</div>
 
       <ul className="hidden items-center space-x-4 md:flex">
